@@ -22,4 +22,7 @@ Click central button to play all songs on page
 Click bottom right clear button to stop slide show
 Use arrow to navigate between three pages
 
+Songs:
+eg pip3 install pytube
+python3 youtube.py XXXX
 
